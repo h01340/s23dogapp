@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/s23FECar/',
+  base: '/s23dogapp/',
   plugins: [react()],
 })
